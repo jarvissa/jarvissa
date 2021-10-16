@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">A young software developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on [epw-next](https://github.com/jarvissa/epw-next)
+- 🔭 I’m currently working on [smartio]
 
 - 👨‍💻 All of my projects are available at [https://github.com/jarvissa](https://github.com/jarvissa)
-
-- 📝 I regularly write articles on [https://jarvissa.me/blog](https://jarvissa.me/blog)
 
 - 📫 How to reach me **ealiyev12125@ada.edu.az**
 
